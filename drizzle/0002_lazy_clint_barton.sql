@@ -1,0 +1,1 @@
+ALTER TABLE sheetPresets ADD `presetTitle` text;

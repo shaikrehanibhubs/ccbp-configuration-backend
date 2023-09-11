@@ -1,0 +1,31 @@
+Date: 8/29/2023, 2:31:41 PM
+Method: callAppsScriptFunction
+Response: {"status":"Success","newSpreadSheet":{"id":"1ylLW1TiC2Z067XvrajCkU6j2UhvVPXuuJXFm16g6_8Y","sheetId":0,"url":"https://docs.google.com/spreadsheets/d/1ylLW1TiC2Z067XvrajCkU6j2UhvVPXuuJXFm16g6_8Y/edit"}}Date: 8/29/2023, 4:47:39 PM
+Method: callAppsScriptFunction
+Response: {"status":"Success","newSpreadSheet":{"id":"1TBm_TimCwbhu8-5JstRzYOZKOxAmp-8-d906So7NTig","sheetId":0,"url":"https://docs.google.com/spreadsheets/d/1TBm_TimCwbhu8-5JstRzYOZKOxAmp-8-d906So7NTig/edit"}}Date: 8/29/2023, 4:53:56 PM
+Method: callAppsScriptFunction
+Response: {"status":"Success","newSpreadSheet":{"id":"10RvOXYPwrxr4wZKyzxodIMTCcPHGO34r-7u5CO3z76U","sheetId":0,"url":"https://docs.google.com/spreadsheets/d/10RvOXYPwrxr4wZKyzxodIMTCcPHGO34r-7u5CO3z76U/edit"}}Date: 8/29/2023, 5:11:13 PM
+Method: callAppsScriptFunction
+Response: {"status":"Success","newSpreadSheet":{"id":"12WJGfex_jdllb-yJPmiBeLGp7Jw45leNMCpSGTTAkDw","sheetId":0,"url":"https://docs.google.com/spreadsheets/d/12WJGfex_jdllb-yJPmiBeLGp7Jw45leNMCpSGTTAkDw/edit"}}Date: 8/29/2023, 5:25:27 PM
+Method: callAppsScriptFunction
+Response: {"status":"Success","newSpreadSheet":{"id":"1zWe4cmb6QXIeGjw1YhFr2L8zP0F9w9yhoAgjwl8CG5w","sheetId":0,"url":"https://docs.google.com/spreadsheets/d/1zWe4cmb6QXIeGjw1YhFr2L8zP0F9w9yhoAgjwl8CG5w/edit"}}Date: 8/30/2023, 9:44:16 AM
+Method: callAppsScriptFunction
+Response: {"status":"Success","newSpreadSheet":{"id":"1aCojGOpGZ5xBHUAQg48ekMdXaBc6ON0A5pamtSy9fs4","sheetId":0,"url":"https://docs.google.com/spreadsheets/d/1aCojGOpGZ5xBHUAQg48ekMdXaBc6ON0A5pamtSy9fs4/edit"}}Date: 8/30/2023, 11:39:21 AM
+Method: callAppsScriptFunction
+Response: {"status":"Success","newSpreadSheet":{"id":"1-9vtZxOtRG1kTSlHR6xr2-AH2lXTQTATI62G1mOCKBc","sheetId":0,"url":"https://docs.google.com/spreadsheets/d/1-9vtZxOtRG1kTSlHR6xr2-AH2lXTQTATI62G1mOCKBc/edit"}}Date: 8/30/2023, 3:31:12 PM
+Method: callAppsScriptFunction
+Response: {"status":"Success","newSpreadSheet":{"id":"1kt-st7IBVcUFg2hW1lUFMjZQPgb0GT2fZ_eopGtT5Bk","sheetId":0,"url":"https://docs.google.com/spreadsheets/d/1kt-st7IBVcUFg2hW1lUFMjZQPgb0GT2fZ_eopGtT5Bk/edit"}}Date: 8/30/2023, 5:11:54 PM
+Method: callAppsScriptFunction
+Response: {"status":"Success","newSpreadSheet":{"id":"1AdqU8GjIhw2n5EJabOM5FenDlg_RBLYijdodotDJs74","sheetId":0,"url":"https://docs.google.com/spreadsheets/d/1AdqU8GjIhw2n5EJabOM5FenDlg_RBLYijdodotDJs74/edit"}}Date: 8/30/2023, 5:13:22 PM
+Method: callAppsScriptFunction
+Response: {"status":"Success","newSpreadSheet":{"id":"1RNonwWoT2vDP-oW90rFojZ5Zv4LR7DAVny9cT0pIjKM","sheetId":0,"url":"https://docs.google.com/spreadsheets/d/1RNonwWoT2vDP-oW90rFojZ5Zv4LR7DAVny9cT0pIjKM/edit"}}Date: 8/30/2023, 5:23:26 PM
+Method: callAppsScriptFunction
+Response: {"status":"Success","newSpreadSheet":{"id":"1oHZQ3n2yFz4pPvYpGXE_wWBYZCjgYI_dnyr_KrD_FEU","sheetId":0,"url":"https://docs.google.com/spreadsheets/d/1oHZQ3n2yFz4pPvYpGXE_wWBYZCjgYI_dnyr_KrD_FEU/edit"}}Date: 8/30/2023, 5:25:03 PM
+Method: callAppsScriptFunction
+Response: {"status":"Success","newSpreadSheet":{"id":"11dXgydpdUQ_zAr1GnBzwdF5Vo1qX6YvQwKThpsd5n68","sheetId":0,"url":"https://docs.google.com/spreadsheets/d/11dXgydpdUQ_zAr1GnBzwdF5Vo1qX6YvQwKThpsd5n68/edit"}}Date: 8/30/2023, 6:04:20 PM
+Method: callAppsScriptFunction
+Response: {"status":"Success","newSpreadSheet":{"id":"1Oat_pUkzXZjANyutbEI_RfIbtBus8ru3JECnP6Cghis","sheetId":0,"url":"https://docs.google.com/spreadsheets/d/1Oat_pUkzXZjANyutbEI_RfIbtBus8ru3JECnP6Cghis/edit"}}Date: 9/11/2023, 9:43:14 AM
+Method: callAppsScriptFunction
+Response: {"status":"Success","newSpreadSheet":{"id":"14gCu3E6ZivugzjGOzMfNdQVnQKjuBuBob3586PMnN-E","sheetId":0,"url":"https://docs.google.com/spreadsheets/d/14gCu3E6ZivugzjGOzMfNdQVnQKjuBuBob3586PMnN-E/edit"}}Date: 9/11/2023, 10:00:38 AM
+Method: callAppsScriptFunction
+Response: {"status":"Success","newSpreadSheet":{"id":"1NWzG0II25GfHj4Tt_PBKy5QCL51mW1AXJPTY7ub6_JQ","sheetId":0,"url":"https://docs.google.com/spreadsheets/d/1NWzG0II25GfHj4Tt_PBKy5QCL51mW1AXJPTY7ub6_JQ/edit"}}
