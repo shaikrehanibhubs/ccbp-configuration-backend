@@ -28,4 +28,30 @@ Response: {"status":"Success","newSpreadSheet":{"id":"1Oat_pUkzXZjANyutbEI_RfIbt
 Method: callAppsScriptFunction
 Response: {"status":"Success","newSpreadSheet":{"id":"14gCu3E6ZivugzjGOzMfNdQVnQKjuBuBob3586PMnN-E","sheetId":0,"url":"https://docs.google.com/spreadsheets/d/14gCu3E6ZivugzjGOzMfNdQVnQKjuBuBob3586PMnN-E/edit"}}Date: 9/11/2023, 10:00:38 AM
 Method: callAppsScriptFunction
-Response: {"status":"Success","newSpreadSheet":{"id":"1NWzG0II25GfHj4Tt_PBKy5QCL51mW1AXJPTY7ub6_JQ","sheetId":0,"url":"https://docs.google.com/spreadsheets/d/1NWzG0II25GfHj4Tt_PBKy5QCL51mW1AXJPTY7ub6_JQ/edit"}}
+Response: {"status":"Success","newSpreadSheet":{"id":"1NWzG0II25GfHj4Tt_PBKy5QCL51mW1AXJPTY7ub6_JQ","sheetId":0,"url":"https://docs.google.com/spreadsheets/d/1NWzG0II25GfHj4Tt_PBKy5QCL51mW1AXJPTY7ub6_JQ/edit"}}Date: 9/11/2023, 5:22:10 PM
+Method: callAppsScriptFunction
+Response: {"status":"Success","newSpreadSheet":{"id":"1L37p9yCVhNMuEpywS0WYe1L80dFPmam4egrqCveBuB8","sheetId":0,"url":"https://docs.google.com/spreadsheets/d/1L37p9yCVhNMuEpywS0WYe1L80dFPmam4egrqCveBuB8/edit"}}Date: 9/11/2023, 5:34:54 PM
+Method: callAppsScriptFunction
+Response: {"status":"Success","newSpreadSheet":{"id":"10AykmBzj10qUCKRP6-tXwhFSyidkvU7gsASht2FFOAc","sheetId":0,"url":"https://docs.google.com/spreadsheets/d/10AykmBzj10qUCKRP6-tXwhFSyidkvU7gsASht2FFOAc/edit"}}Date: 9/11/2023, 5:36:14 PM
+Method: callAppsScriptFunction
+Response: {"status":"Success","newSpreadSheet":{"id":"1Jd50VqOlrDefuTjObsBtM8ORjQbbIYlVHONzLfSFYik","sheetId":0,"url":"https://docs.google.com/spreadsheets/d/1Jd50VqOlrDefuTjObsBtM8ORjQbbIYlVHONzLfSFYik/edit"}}Date: 9/12/2023, 10:15:59 AM
+Method: callAppsScriptFunction
+Response: {"status":"Success","newSpreadSheet":{"id":"1LUwxUQLlfCvQNUZCauDu-o0f1brUlQ8PR6yItbCM294","sheetId":0,"url":"https://docs.google.com/spreadsheets/d/1LUwxUQLlfCvQNUZCauDu-o0f1brUlQ8PR6yItbCM294/edit"}}Date: 9/12/2023, 10:19:54 AM
+Method: callAppsScriptFunction
+Response: {"status":"Success","newSpreadSheet":{"id":"1IVixh7QM_Z0r-8QauKX1sSavbaJypL6uG1o2Kz7YL-0","sheetId":0,"url":"https://docs.google.com/spreadsheets/d/1IVixh7QM_Z0r-8QauKX1sSavbaJypL6uG1o2Kz7YL-0/edit"}}Date: 9/12/2023, 10:34:46 AM
+Method: callAppsScriptFunction
+Response: {"status":"Success","newSpreadSheet":{"id":"1BQECFAw9lX8HZzb7gUTooaimQSR-_28Yma37c6EfQLw","sheetId":0,"url":"https://docs.google.com/spreadsheets/d/1BQECFAw9lX8HZzb7gUTooaimQSR-_28Yma37c6EfQLw/edit"}}Date: 9/12/2023, 10:38:47 AM
+Method: callAppsScriptFunction
+Response: {"status":"Success","newSpreadSheet":{"id":"1qWTohfdNNvPJG6SC21TMD5Meeh2bkHENVpyOcARWd6Q","sheetId":0,"url":"https://docs.google.com/spreadsheets/d/1qWTohfdNNvPJG6SC21TMD5Meeh2bkHENVpyOcARWd6Q/edit"}}Date: 9/12/2023, 10:39:21 AM
+Method: callAppsScriptFunction
+Response: {"status":"Success","newSpreadSheet":{"id":"1WNQ-OpMM2eh76rA9isjozMdIXzSJUGm_DsaLrUEZzGo","sheetId":0,"url":"https://docs.google.com/spreadsheets/d/1WNQ-OpMM2eh76rA9isjozMdIXzSJUGm_DsaLrUEZzGo/edit"}}Date: 9/12/2023, 10:40:01 AM
+Method: callAppsScriptFunction
+Response: {"status":"Success","newSpreadSheet":{"id":"1TV8iBoyqJA2wxJIwnuXLg6UexAAzNn4hCEgDSv60hJM","sheetId":0,"url":"https://docs.google.com/spreadsheets/d/1TV8iBoyqJA2wxJIwnuXLg6UexAAzNn4hCEgDSv60hJM/edit"}}Date: 9/12/2023, 11:32:51 AM
+Method: callAppsScriptFunction
+Response: {"status":"Success","newSpreadSheet":{"id":"1dY9TmQqetA4Yuh5he_N74v-0u1Hk224V4W49RspgOyM","sheetId":0,"url":"https://docs.google.com/spreadsheets/d/1dY9TmQqetA4Yuh5he_N74v-0u1Hk224V4W49RspgOyM/edit"}}Date: 9/12/2023, 3:53:57 PM
+Method: callAppsScriptFunction
+Response: {"status":"Success","newSpreadSheet":{"id":"10if9Cx3nFR7XMyRtrEaPcOqVmAz9DCb9m-3NpeFSMXE","sheetId":0,"url":"https://docs.google.com/spreadsheets/d/10if9Cx3nFR7XMyRtrEaPcOqVmAz9DCb9m-3NpeFSMXE/edit"}}Date: 9/13/2023, 9:58:20 AM
+Method: callAppsScriptFunction
+Response: {"status":"Success","newSpreadSheet":{"id":"1JAp4v8LkHZSMpD8vg-kjuWFkwYJ2Wr4AUhl95QvulBA","sheetId":0,"url":"https://docs.google.com/spreadsheets/d/1JAp4v8LkHZSMpD8vg-kjuWFkwYJ2Wr4AUhl95QvulBA/edit"}}Date: 9/13/2023, 10:22:39 AM
+Method: callAppsScriptFunction
+Response: {"status":"Success","newSpreadSheet":{"id":"1Lxq9msx2wNsYUIO6VmILc9QAK2_Z4F7dJXlH9hv8jS8","sheetId":0,"url":"https://docs.google.com/spreadsheets/d/1Lxq9msx2wNsYUIO6VmILc9QAK2_Z4F7dJXlH9hv8jS8/edit"}}
